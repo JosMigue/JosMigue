@@ -1,10 +1,9 @@
 # 👋🏻
 
 - 👋 Hi, I’m José and I'm a Full-Stack developer
-- 👀 I’m interested in doing Front or Back, whatever it is I really enjoy doing both with ❤️
+- 👀 I’m interested in Frontend or Backend, whatever it is I really enjoy doing both with ❤️
 - 🌱 I’m currently learning Python, Next.js and Nuxt.js
-- 💞️ I’m looking to collaborate on with teams. I know that I'm a bit quiet but I know how to collaborate 👨🏻‍💻
-- 📫 How to reach me by sending me an email to <a href="mailto:Jose_Galvan20_97@hotmail.com">Jose_Galvan20_97@hotmail.com</a>, hope we can meet us soon
+- 📫 You can reach me by sending me an email to <a href="mailto:Jose_Galvan20_97@hotmail.com">Jose_Galvan20_97@hotmail.com</a>, hope I can meet you soon
 
 # My Stack
 
