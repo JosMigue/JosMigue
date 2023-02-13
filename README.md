@@ -16,7 +16,7 @@
 <code><img height="20" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
 <code><img height="20" alt="vue.js" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code> 
 
-You can check my full stack in my portfolio (WIP)
+You can check my full stack in my <a href="https://josmigue.github.io/portfolio-react/" target="__blank">Portfolio</a> (WIP)
 
 <!---
 JosMigue/JosMigue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
