@@ -3,7 +3,7 @@
 - 👋 I’m José and I'm a Full-Stack developer
 - 👀 I’m looking for new challenges in Frontend or Backend
 - 🌱 Continuos learning and improvement in my soft and hard skills
-- 🗣️ I speak spanish and english (B2)
+- 🗣️ I speak spanish (native) and english (C1)
 - 📫 You can reach me by sending me an email to <a href="mailto:Jose_Galvan20_97@hotmail.com">Jose_Galvan20_97@hotmail.com</a>, hope we can meet up soon
 
 #  Social
